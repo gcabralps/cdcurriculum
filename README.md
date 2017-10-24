@@ -67,7 +67,7 @@ INSERT LINK
   <a href="#week13">Week13</a> |
   <a href="#week14">Week14</a> |
   <a href="#week15">Week15</a>
-</nav>
+</nav>  
 ***
 ## KICKOFF
 OBJECTIVES: Introduction and Expectations (15 min)  
