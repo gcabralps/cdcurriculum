@@ -21,42 +21,34 @@ Please sign up for the following accounts by Week 1:
 You must have a professional Gmail account (first name, last name, maybe a number). We rely <b>HEAVILY</b> on Google Calendar, Forms and other G-Suite apps to communicate with you.  
   
 
-<b><a href="https://www.linkedin.com/">LINKEDIN</a></b>
-<br/>
-LinkedIn is a professional networking tool that allows us to create profiles, search for jobs and connect with other professionals in our industry. We will have a session dedicated to creating LinkedIn profiles, but it helps to already have an account before we begin.
-<br/>
-<br/>
-<b><a href="http://creddle.io/">CREDDLE</a></b>
-</br>
-After we've drafted, edited and re-written our resumes, we will use Creddle's clean, professional templates to make them look good!
-<br/>
-<br/>
-<b><a href="https://slack.com">SLACK</a></b>
-<br/>
-Slack is an excellent way to communicate with your fellow classmates after class. I've created a room for your class and will send details via email.
-<br/>
-<br/>
-<b><a href="https://www.meetup.com/">MEETUP</a></b>
-<br/>
-MeetUp lists events, workshops and other gatherings by interest. This is a great place to find events where we can practice our networking skills and connect with others in tech.
-<br/>
-<hr/>
-<br/>
-<b>MATERIALS</b>
-<br/>
- While we don't need an official textbook, I do recommend the following articles to help you prepare for some of the topics we'll be   discussing in the upcoming weeks:
-<br/>
-<br/>
-  INSERT LINK
-<br/>
-  INSERT LINK
-<br/>
-  INSERT LINK
-<br/>
-<br/>
-<hr/>
-<b>QUICKLINKS</b>
-<br/>
+<b><a href="https://www.linkedin.com/">LINKEDIN</a></b>  
+LinkedIn is a professional networking tool that allows us to create profiles, search for jobs and connect with other professionals in our industry. We will have a session dedicated to creating LinkedIn profiles, but it helps to already have an account before we begin.  
+  
+  
+<b><a href="http://creddle.io/">CREDDLE</a></b>  
+After we've drafted, edited and re-written our resumes, we will use Creddle's clean, professional templates to make them look good!  
+  
+  
+<b><a href="https://slack.com">SLACK</a></b>  
+Slack is an excellent way to communicate with your fellow classmates after class. I've created a room for your class and will send details via email.  
+  
+  
+<b><a href="https://www.meetup.com/">MEETUP</a></b>  
+MeetUp lists events, workshops and other gatherings by interest. This is a great place to find events where we can practice our networking skills and connect with others in tech.  
+
+***
+## MATERIALS
+ While we don't need an official textbook, I do recommend the following articles to help you prepare for some of the topics we'll be   discussing in the upcoming weeks:  
+   
+   
+INSERT LINK  
+
+INSERT LINK  
+  
+INSERT LINK  
+
+***
+## QUICKLINKS
 <nav>
   <a href="#kickoff">KickOff</a> |
   <a href="#fkick">Friday After</a> |
@@ -76,8 +68,7 @@ MeetUp lists events, workshops and other gatherings by interest. This is a great
   <a href="#week14">Week14</a> |
   <a href="#week15">Week15</a>
 </nav>
-<hr/>
-<b>KICKOFF</b>
-<br/>
-OBJECTIVES: Introduction and Expectations (15 min)
-<br/>
+***
+## KICKOFF
+OBJECTIVES: Introduction and Expectations (15 min)  
+
