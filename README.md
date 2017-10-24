@@ -49,23 +49,23 @@ INSERT LINK
 
 ***
 ## QUICKLINKS
-  <a href="#kickoff">KickOff</a> |
-  <a href="#fkick">Friday After</a> |
-  <a href="#week1">Week1</a> |
-  <a href="#week2">Week2</a> |
-  <a href="#week3">Week3</a> |
-  <a href="#week4">Week4</a> |
-  <a href="#week5">Week5</a> |
-  <a href="#week6">Week6</a> |
-  <a href="#week7">Week7</a> |
-  <a href="#week8">Week8</a> |
-  <a href="#week9">Week9</a> |
-  <a href="#week10">Week10</a> |
-  <a href="#week11">Week11</a> |
-  <a href="#week12">Week12</a> |
-  <a href="#week13">Week13</a> |
-  <a href="#week14">Week14</a> |
-  <a href="#week15">Week15</a>  
+  <a href="#KICKOFF">KickOff</a> |
+  <a href="#FRIDAY AFTER KICKOFF">Friday After</a> |
+  <a href="#WEEK1">Week1</a> |
+  <a href="#WEEK2">Week2</a> |
+  <a href="#WEEK3">Week3</a> |
+  <a href="#WEEK4">Week4</a> |
+  <a href="#WEEK5">Week5</a> |
+  <a href="#WEEK6">Week6</a> |
+  <a href="#WEEK7">Week7</a> |
+  <a href="#WEEK8">Week8</a> |
+  <a href="#WEEK9">Week9</a> |
+  <a href="#WEEK10">Week10</a> |
+  <a href="#WEEK11">Week11</a> |
+  <a href="#WEEK12">Week12</a> |
+  <a href="#WEEK13">Week13</a> |
+  <a href="#WEEK14">Week14</a> |
+  <a href="#WEEK15">Week15</a>  
     
     
 ***
