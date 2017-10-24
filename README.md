@@ -16,7 +16,7 @@ LinkedIn: https://www.linkedin.com/in/geny-cabral/
 To Book One-on-Ones: https://gcabral.youcanbook.me/
   
 ***
-### ACCOUNTS  
+## ACCOUNTS
 
 Please sign up for the following accounts by Week 1:  
 
