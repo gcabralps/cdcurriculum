@@ -9,7 +9,7 @@ We have a lot of work to do! But before we jump in, please familiarize yourself 
 <br/>
 <br/>
 <div style="background-color:green">
-<b>CONTACT</b>
+##CONTACT
 <br/>
 <i>Geny Cabral</i>
 <br/>
@@ -97,3 +97,8 @@ MeetUp lists events, workshops and other gatherings by interest. This is a great
   <a href="#week14">Week14</a> |
   <a href="#week15">Week15</a>
 </nav>
+<hr/>
+<b>KICKOFF</b>
+<br/>
+OBJECTIVES: Introduction and Expectations (15 min)
+<br/>
