@@ -31,6 +31,7 @@ https://gcabral.youcanbook.me/
 <br/>
 Please sign up for the following accounts by Week 1:
 <br/>
+<br/>
 <b><a href="https://github.com/">GITHUB</a></b>
 <br/>
 GitHub is typically used by software developers, not necessary for our class, but needed if you'd like to keep a copy of this syllabus.
@@ -60,7 +61,6 @@ Slack is an excellent way to communicate with your fellow classmates after class
 <br/>
 MeetUp lists events, workshops and other gatherings by interest. This is a great place to find events where we can practice our networking skills and connect with others in tech.
 <br/>
-<br/>
 
 <br/>
 <b>MATERIALS</b>
@@ -75,8 +75,7 @@ MeetUp lists events, workshops and other gatherings by interest. This is a great
   INSERT LINK
 <br/>
 <br/>
-
-<br/>
+<hr/>
 <b>QUICKLINKS</b>
 <nav>
   <a href="#week1">Week1</a>
