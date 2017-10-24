@@ -80,4 +80,18 @@ MeetUp lists events, workshops and other gatherings by interest. This is a great
 <br/>
 <nav>
   <a href="#week1">Week1</a>
+  <a href="#week2">Week2</a>
+  <a href="#week3">Week3</a>
+  <a href="#week4">Week4</a>
+  <a href="#week5">Week5</a>
+  <a href="#week6">Week6</a>
+  <a href="#week7">Week7</a>
+  <a href="#week8">Week8</a>
+  <a href="#week9">Week9</a>
+  <a href="#week10">Week10</a>
+  <a href="#week11">Week11</a>
+  <a href="#week12">Week12</a>
+  <a href="#week13">Week13</a>
+  <a href="#week14">Week14</a>
+  <a href="#week15">Week15</a>
 </nav>
