@@ -9,8 +9,8 @@ We have a lot of work to do! But before we jump in, please familiarize yourself 
 <br/>
 <br/>
 <div style="background-color:green">
-##CONTACT
-<br/>
+## CONTACT  
+ 
 <i>Geny Cabral</i>
 <br/>
 Career Coach, Per Scholas
