@@ -21,5 +21,22 @@ Email: gcabral@perscholas.org
 LinkedIn: https://www.linkedin.com/in/geny-cabral/
 <br/>
 <br/>
+  
+<b>ACCOUNTS</b>
+<br/>
+ Please sign up for the following accounts by Week 1:
+ 
+<br/>
 
-
+<b>MATERIALS</>
+<br/>
+ While we don't need an official textbook, I do recommend the following articles to help you prepare for some of the topics we'llbe   discussing in the upcoming weeks:
+ <br/>
+ <br/>
+  INSERT LINK
+  <br/>
+  INSERT LINK
+  <br/>
+  INSERT LINK
+  <br/>
+ <br/>
