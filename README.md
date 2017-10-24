@@ -49,7 +49,6 @@ INSERT LINK
 
 ***
 ## QUICKLINKS
-<nav>
   <a href="#kickoff">KickOff</a> |
   <a href="#fkick">Friday After</a> |
   <a href="#week1">Week1</a> |
@@ -66,8 +65,9 @@ INSERT LINK
   <a href="#week12">Week12</a> |
   <a href="#week13">Week13</a> |
   <a href="#week14">Week14</a> |
-  <a href="#week15">Week15</a>
-</nav>  
+  <a href="#week15">Week15</a>  
+    
+    
 ***
 ## KICKOFF
 OBJECTIVES: Introduction and Expectations (15 min)  
