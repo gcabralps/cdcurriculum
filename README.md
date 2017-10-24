@@ -10,17 +10,13 @@ We have a lot of work to do! But before we jump in, please familiarize yourself 
  
 <i>Geny Cabral</i>  
 Career Coach, Per Scholas  
-Phone: (718) 991-4800 x384
-<br/>
-Email: gcabral@perscholas.org
-<br/>
-LinkedIn: https://www.linkedin.com/in/geny-cabral/
-<br/>
-To Book One-on-Ones:
-https://gcabral.youcanbook.me/
-<br/>
-<br/>
-<hr>
+Phone: (718) 991-4800 x384  
+Email: gcabral@perscholas.org  
+LinkedIn: https://www.linkedin.com/in/geny-cabral/  
+To Book One-on-Ones: https://gcabral.youcanbook.me/
+  
+  
+___
 <b>ACCOUNTS</b>
 <br/>
 Please sign up for the following accounts by Week 1:
