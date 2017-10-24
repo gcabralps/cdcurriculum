@@ -73,3 +73,9 @@ MeetUp lists events, workshops and other gatherings by interest. This is a great
   INSERT LINK
 <br/>
 <br/>
+
+<br/>
+<b>QUICKLINKS</b>
+<nav>
+  <a href="#week1">Week1</a>
+</nav>
