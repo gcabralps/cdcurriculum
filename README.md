@@ -6,12 +6,10 @@ Welcome to Career Development! Over the next 15 weeks, we will work together to 
 
 We have a lot of work to do! But before we jump in, please familiarize yourself with the syllabus below. It is a roadmap for our time together and while there will be a few surprises along the way, the overall schedule will help you use your time efficiently. If you have any questions or concerns, please feel free to contact me.  
 
-### CONTACT  
+#### CONTACT  
  
 <i>Geny Cabral</i>  
-
-Career Coach, Per Scholas
-
+Career Coach, Per Scholas  
 Phone: (718) 991-4800 x384
 <br/>
 Email: gcabral@perscholas.org
