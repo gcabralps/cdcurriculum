@@ -17,7 +17,7 @@ To Book One-on-Ones: https://gcabral.youcanbook.me/
 ## ACCOUNTS
 Please sign up for the following accounts by Week 1:  
 
-<b><a href="https://mail.google.com">GMAIL</a></b>
+<b><a href="https://mail.google.com">GMAIL</a></b>  
 You must have a professional Gmail account (first name, last name, maybe a number). We rely <b>HEAVILY</b> on Google Calendar, Forms and other G-Suite apps to communicate with you.  
   
 
