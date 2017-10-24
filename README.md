@@ -15,8 +15,7 @@ Email: gcabral@perscholas.org
 LinkedIn: https://www.linkedin.com/in/geny-cabral/  
 To Book One-on-Ones: https://gcabral.youcanbook.me/
   
-  
-___
+***
 ### ACCOUNTS  
 
 Please sign up for the following accounts by Week 1:  
