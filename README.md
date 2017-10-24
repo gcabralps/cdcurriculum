@@ -85,4 +85,55 @@ OBJECTIVES: Introduction and Expectations (15 min)
 OBJECTIVES: Introduction and Expectations (15 min)  
   
 ***  
-
+### WEEK 3
+OBJECTIVES: Introduction and Expectations (15 min)  
+  
+***  
+### WEEK 4
+OBJECTIVES: Introduction and Expectations (15 min)  
+  
+***  
+### WEEK 5
+OBJECTIVES: Introduction and Expectations (15 min)  
+  
+***  
+### WEEK 6
+OBJECTIVES: Introduction and Expectations (15 min)  
+  
+***  
+### WEEK 7
+**EXAM WEEK, NO CAREER DEVELOPMENT**
+  
+***  
+### WEEK 8
+OBJECTIVES: Introduction and Expectations (15 min)  
+  
+***  
+### WEEK 9
+OBJECTIVES: Introduction and Expectations (15 min)  
+  
+***  
+### WEEK 10
+OBJECTIVES: Introduction and Expectations (15 min)  
+  
+***  
+### WEEK 11
+OBJECTIVES: Introduction and Expectations (15 min)  
+  
+***  
+### WEEK 12
+OBJECTIVES: Introduction and Expectations (15 min)  
+  
+***  
+### WEEK 13
+OBJECTIVES: Introduction and Expectations (15 min)  
+  
+***  
+### WEEK 14
+OBJECTIVES: Introduction and Expectations (15 min)  
+  
+***  
+### WEEK 15
+OBJECTIVES: Introduction and Expectations (15 min)  
+  
+***  
