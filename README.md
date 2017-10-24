@@ -61,7 +61,7 @@ Slack is an excellent way to communicate with your fellow classmates after class
 <br/>
 MeetUp lists events, workshops and other gatherings by interest. This is a great place to find events where we can practice our networking skills and connect with others in tech.
 <br/>
-
+<hr/>
 <br/>
 <b>MATERIALS</b>
 <br/>
@@ -77,6 +77,7 @@ MeetUp lists events, workshops and other gatherings by interest. This is a great
 <br/>
 <hr/>
 <b>QUICKLINKS</b>
+<br/>
 <nav>
   <a href="#week1">Week1</a>
 </nav>
