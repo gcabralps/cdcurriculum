@@ -17,11 +17,10 @@ To Book One-on-Ones: https://gcabral.youcanbook.me/
   
   
 ___
-<b>ACCOUNTS</b>
-<br/>
-Please sign up for the following accounts by Week 1:
-<br/>
-<br/>
+### ACCOUNTS  
+
+Please sign up for the following accounts by Week 1:  
+
 <b><a href="https://github.com/">GITHUB</a></b>
 <br/>
 GitHub is typically used by software developers, not necessary for our class, but needed if you'd like to keep a copy of this syllabus.
