@@ -36,7 +36,6 @@ GitHub is typically used by software developers, not necessary for our class, bu
 <br/>
 <b><a href="https://mail.google.com">GMAIL</a></b>
 <br/>
-<br/>
 You must have a professional Gmail account (first name, last name, maybe a number). We rely <b>HEAVILY</b> on Google Calendar, Forms and other G-Suite apps to communicate with you.
 <br/>
 <br/>
