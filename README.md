@@ -27,13 +27,22 @@ https://gcabral.youcanbook.me/
   
 <b>ACCOUNTS</b>
 <br/>
- Please sign up for the following accounts by Week 1:
- <br/>
- <b>GMAIL</b>
- </br>
- We rely
+Please sign up for the following accounts by Week 1:
+<br/>
+<b>GMAIL</b>
+</br>
+You must have a professional Gmail account (first name, last name, maybe a number). We rely on Google Calendar, Forms and other G-Suite apps to communicate with you.
+<br/>
+<b>SLACK</b>
+</br>
+Slack is an excellent way to communicate with your fellow classmates after class. I've created a room for your class and will send details via email.
+<br/>
+<b>CREDDLE</b>
+</br>
+After we've drafted, edited and re-written our resumes, we will use Creddle's clean, professional templates to make them look good!
 <br/>
 
+<br/>
 <b>MATERIALS</b>
 <br/>
  While we don't need an official textbook, I do recommend the following articles to help you prepare for some of the topics we'llbe   discussing in the upcoming weeks:
