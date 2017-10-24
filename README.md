@@ -69,6 +69,20 @@ INSERT LINK
     
     
 ***
-## KICKOFF
+### KICKOFF
 OBJECTIVES: Introduction and Expectations (15 min)  
+  
+***  
+### FRIDAY AFTER KICKOFF  
+OBJECTIVES: Class Overview, Personal Shields, Strategy  
+HANDOUTS: Overview One-Sheeter  
+***
+### WEEK 1
+OBJECTIVES: Introduction and Expectations (15 min)  
+  
+***
+### WEEK 2
+OBJECTIVES: Introduction and Expectations (15 min)  
+  
+***  
 
