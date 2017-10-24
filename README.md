@@ -29,27 +29,31 @@ https://gcabral.youcanbook.me/
 <br/>
 Please sign up for the following accounts by Week 1:
 <br/>
-
-<br/>
 <b><a href="https://github.com/">GITHUB</a></b>
 <br/>
 GitHub is typically used by software developers, not necessary for our class, but needed if you'd like to keep a copy of this syllabus.
 <br/>
+<br/>
 <b><a href="https://mail.google.com">GMAIL</a></b>
-</br>
+<br/>
+<br/>
 You must have a professional Gmail account (first name, last name, maybe a number). We rely <b>HEAVILY</b> on Google Calendar, Forms and other G-Suite apps to communicate with you.
+<br/>
 <br/>
 <b><a href="https://www.linkedin.com/">LINKEDIN</a></b>
 <br/>
 LinkedIn is a professional networking tool that allows us to create profiles, search for jobs and connect with other professionals in our industry. We will have a session dedicated to creating LinkedIn profiles, but it helps to already have an account before we begin.
 <br/>
+<br/>
 <b><a href="http://creddle.io/">CREDDLE</a></b>
 </br>
 After we've drafted, edited and re-written our resumes, we will use Creddle's clean, professional templates to make them look good!
 <br/>
+<br/>
 <b><a href="https://slack.com">SLACK</a></b>
 <br/>
 Slack is an excellent way to communicate with your fellow classmates after class. I've created a room for your class and will send details via email.
+<br/>
 <br/>
 <b><a href="https://www.meetup.com/">MEETUP</a></b>
 <br/>
