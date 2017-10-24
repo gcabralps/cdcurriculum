@@ -79,6 +79,8 @@ MeetUp lists events, workshops and other gatherings by interest. This is a great
 <b>QUICKLINKS</b>
 <br/>
 <nav>
+  <a href="#kickoff">KickOff</a> |
+  <a href="#fkick">Friday After</a> |
   <a href="#week1">Week1</a> |
   <a href="#week2">Week2</a> |
   <a href="#week3">Week3</a> |
