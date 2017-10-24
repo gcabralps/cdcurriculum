@@ -17,11 +17,10 @@ To Book One-on-Ones: https://gcabral.youcanbook.me/
 ## ACCOUNTS
 Please sign up for the following accounts by Week 1:  
 
-[GMAIL] (https://mail.google.com)  
+<b><a href="https://mail.google.com">GMAIL</a></b>
+You must have a professional Gmail account (first name, last name, maybe a number). We rely <b>HEAVILY</b> on Google Calendar, Forms and other G-Suite apps to communicate with you.  
+  
 
-You must have a professional Gmail account (first name, last name, maybe a number). We rely <b>HEAVILY</b> on Google Calendar, Forms and other G-Suite apps to communicate with you.
-<br/>
-<br/>
 <b><a href="https://www.linkedin.com/">LINKEDIN</a></b>
 <br/>
 LinkedIn is a professional networking tool that allows us to create profiles, search for jobs and connect with other professionals in our industry. We will have a session dedicated to creating LinkedIn profiles, but it helps to already have an account before we begin.
