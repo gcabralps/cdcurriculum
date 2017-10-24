@@ -74,23 +74,33 @@ OBJECTIVES: Introduction and Expectations (15 min)
   
 ***  
 ### FRIDAY AFTER KICKOFF  
-OBJECTIVES: Class Overview, Personal Shields, Strategy  
+OBJECTIVES: Class Overview, Personal Shields, Creating a Job Search Strategy (Goal)  
 HANDOUTS: Overview One-Sheeter  
 ***
 ### WEEK 1
-OBJECTIVES: Introduction and Expectations (15 min)  
+OBJECTIVES: Setting a Target Job, Creating a Personal Narrative, Resume  
+ACTIVITIES: Timeline & Application  
+HANDOUTS: Worksheet
+
   
 ***
 ### WEEK 2
-OBJECTIVES: Introduction and Expectations (15 min)  
+OBJECTIVES: 60S Pitch  
+ACTIVITIES: Sell IT  
+HANDOUTS: 
   
 ***  
 ### WEEK 3
-OBJECTIVES: Introduction and Expectations (15 min)  
+OBJECTIVES: Resume Edits (adding new skills) & Preparing for the Interview  
+ACTIVITIES: 
+HANDOUTS: 
   
 ***  
 ### WEEK 4
-OBJECTIVES: Introduction and Expectations (15 min)  
+OBJECTIVES:  LinkedIn Profile & More Interview Practice
+ACTIVITIES:  
+HANDOUTS:  
+**FIRST DRAFT RESUMES ARE DUE**
   
 ***  
 ### WEEK 5
@@ -98,7 +108,7 @@ OBJECTIVES: Introduction and Expectations (15 min)
   
 ***  
 ### WEEK 6
-OBJECTIVES: Introduction and Expectations (15 min)  
+OBJECTIVES:   
   
 ***  
 ### WEEK 7
@@ -106,7 +116,9 @@ OBJECTIVES: Introduction and Expectations (15 min)
   
 ***  
 ### WEEK 8
-OBJECTIVES: Introduction and Expectations (15 min)  
+OBJECTIVES: Resume Upload  
+ASSIGNMENT: Upload your resume to Creddle.io, select a template & publish. Go to Peer Review and email me the link.
+**FINAL RESUMES DUE**
   
 ***  
 ### WEEK 9
