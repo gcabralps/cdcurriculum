@@ -1,2 +1,2 @@
-# cdcurriculum
-Career Development Curriculum
+# Career Development Curriculum
+Career Development - IT Support
