@@ -49,69 +49,69 @@ INSERT LINK
 
 ***
 ## QUICKLINKS
-  <a href="#KICKOFF">KickOff</a> |
-  <a href="#FRIDAY AFTER KICKOFF">Friday After</a> |
-  <a href="###WEEK1">Week1</a> |
-  <a href="###WEEK2">Week2</a> |
-  <a href="###WEEK3">Week3</a> |
-  <a href="###WEEK4">Week4</a> |
-  <a href="###WEEK5">Week5</a> |
-  <a href="###WEEK6">Week6</a> |
-  <a href="###WEEK7">Week7</a> |
-  [Week8](#week8) |
-  <a href="###WEEK9">Week9</a> |
-  <a href="###WEEK10">Week10</a> |
-  <a href="###WEEK11">Week11</a> |
-  <a href="###WEEK12">Week12</a> |
-  <a href="###WEEK13">Week13</a> |
-  <a href="###WEEK14">Week14</a> |
-  <a href="###WEEK15">Week15</a>  
+  [KickOff] (#kickoff) |
+  [Friday After] (#fridayafter) |
+  [Week1] (#week1) |
+  [Week2] (#week2) |
+  [Week3] (#week3) |
+  [Week4] (#week4) |
+  [Week5] (#week5) |
+  [Week6] (#week6) |
+  [Week7] (#week7) |
+  [Week8] (#week8) |
+  [Week9] (#week9) |
+  [Week10] (#week10) |
+  [Week11] (#week11) |
+  [Week12] (#week12) |
+  [Week13] (#week13) |
+  [Week14] (#week14) |
+  [Week15] (#week15)  
     
     
 ***
-### KICKOFF
+### <a name=""></a>KICKOFF
 OBJECTIVES: Introduction and Expectations (15 min)  
   
 ***  
-### FRIDAY AFTER KICKOFF  
+### <a name=""></a>FRIDAY AFTER KICKOFF  
 OBJECTIVES: Class Overview, Personal Shields, Creating a Job Search Strategy (Goal)  
 HANDOUTS: Overview One-Sheeter  
 ***
-### WEEK 1
+### <a name=""></a>WEEK 1
 OBJECTIVES: Setting a Target Job, Creating a Personal Narrative, Resume  
 ACTIVITIES: Timeline & Application  
 HANDOUTS: Worksheet
 
   
 ***
-### WEEK 2
+### <a name=""></a>WEEK 2
 OBJECTIVES: 60S Pitch  
 ACTIVITIES: Sell IT  
 HANDOUTS: 
   
 ***  
-### WEEK 3
+### <a name=""></a>WEEK 3
 OBJECTIVES: Resume Edits (adding new skills) & Preparing for the Interview  
 ACTIVITIES: 
 HANDOUTS: 
   
 ***  
-### WEEK 4
+### <a name=""></a>WEEK 4
 OBJECTIVES:  LinkedIn Profile & More Interview Practice
 ACTIVITIES:  
 HANDOUTS:  
 **FIRST DRAFT RESUMES ARE DUE**
   
 ***  
-### WEEK 5
+### <a name=""></a>WEEK 5
 OBJECTIVES: Introduction and Expectations (15 min)  
   
 ***  
-### WEEK 6
+### <a name=""></a>WEEK 6
 OBJECTIVES:   
   
 ***  
-### WEEK 7
+### <a name=""></a>WEEK 7
 **EXAM WEEK, NO CAREER DEVELOPMENT**
   
 ***  
@@ -121,31 +121,31 @@ ASSIGNMENT: Upload your resume to Creddle.io, select a template & publish. Go to
 **FINAL RESUMES DUE**
   
 ***  
-### WEEK 9
+### <a name=""></a>WEEK 9
 OBJECTIVES: Introduction and Expectations (15 min)  
   
 ***  
-### WEEK 10
+### <a name=""></a>WEEK 10
 OBJECTIVES: Introduction and Expectations (15 min)  
   
 ***  
-### WEEK 11
+### <a name=""></a>WEEK 11
 OBJECTIVES: Introduction and Expectations (15 min)  
   
 ***  
-### WEEK 12
+### <a name=""></a>WEEK 12
 OBJECTIVES: Introduction and Expectations (15 min)  
   
 ***  
-### WEEK 13
+### <a name=""></a>WEEK 13
 OBJECTIVES: Introduction and Expectations (15 min)  
   
 ***  
-### WEEK 14
+### <a name=""></a>WEEK 14
 OBJECTIVES: Introduction and Expectations (15 min)  
   
 ***  
-### WEEK 15
+### <a name=""></a>WEEK 15
 OBJECTIVES: Introduction and Expectations (15 min)  
   
 ***  
