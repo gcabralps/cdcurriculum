@@ -49,8 +49,8 @@ INSERT LINK
 
 ***
 ## QUICKLINKS
-  <a href="###KICKOFF">KickOff</a> |
-  <a href="###FRIDAY AFTER KICKOFF">Friday After</a> |
+  <a href="#KICKOFF">KickOff</a> |
+  <a href="#FRIDAY AFTER KICKOFF">Friday After</a> |
   <a href="###WEEK1">Week1</a> |
   <a href="###WEEK2">Week2</a> |
   <a href="###WEEK3">Week3</a> |
@@ -58,7 +58,7 @@ INSERT LINK
   <a href="###WEEK5">Week5</a> |
   <a href="###WEEK6">Week6</a> |
   <a href="###WEEK7">Week7</a> |
-  <a href="###WEEK8">Week8</a> |
+  [Week8](#week8) |
   <a href="###WEEK9">Week9</a> |
   <a href="###WEEK10">Week10</a> |
   <a href="###WEEK11">Week11</a> |
@@ -115,7 +115,7 @@ OBJECTIVES:
 **EXAM WEEK, NO CAREER DEVELOPMENT**
   
 ***  
-### WEEK 8
+### <a name="week8"></a>WEEK 8
 OBJECTIVES: Resume Upload  
 ASSIGNMENT: Upload your resume to Creddle.io, select a template & publish. Go to Peer Review and email me the link.
 **FINAL RESUMES DUE**
