@@ -69,7 +69,7 @@ MeetUp lists events, workshops and other gatherings by interest. This is a great
     
 ***
 ### <a name="kickoff"></a>KICKOFF
-OBJECTIVES: Introduction/Expectations/Collect Emails
+OBJECTIVES: Introduction/Expectations/Collect Emails  
 ASSIGNMENT (DUE NEXT CLASS): Email Resume + Course Goals
   
 ***  
@@ -116,7 +116,8 @@ ASSIGNMENT(**DUE WEEK 8**): Finalize resumes, be ready to submit by Week 8.
 ***  
 ### <a name="week8"></a>WEEK 8
 OBJECTIVES: Resume Formatting (Creddle.io)/Networking  
-ASSIGNMENT (DUE NEXT CLASS): Upload your resume to Creddle.io, select a template & publish. Go to Peer Review and email me the link.  
+ASSIGNMENT (**DUE MIDNIGHT**):  
+Upload your resume to Creddle.io, select a template & publish. Go to Peer Review and email me the link.  
 **FINAL RESUMES DUE**  
   
 ***  
