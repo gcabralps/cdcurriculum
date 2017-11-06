@@ -75,21 +75,18 @@ ASSIGNMENT (DUE NEXT CLASS): Email Resume + Course Goals
 ***  
 ### <a name="fridayafter"></a>FRIDAY AFTER KICKOFF  
 OBJECTIVES: Policies/Syllabus & Links/Creating a Job Search Strategy/Setting a Goal  
-ASSIGNMENT(DUE NEXT CLASS):  
+ASSIGNMENT (DUE NEXT CLASS): Email Job Description + Why you're interested + Why you're a good fit  
+
 ***
 ### <a name="week1"></a>WEEK 1
-OBJECTIVES: Setting a Target Job, Creating a Personal Narrative, Resume  
-ACTIVITIES: Timeline & Application  
-HANDOUTS: Worksheet
-ASSIGNMENT(DUE NEXT CLASS):
+OBJECTIVES: Self-Assessment (Shields/Application)  
+ASSIGNMENT (DUE NEXT CLASS): Email Completed App (Google Form)
   
 ***
 ### <a name="week2"></a>WEEK 2
-OBJECTIVES: 60S Pitch  
-ACTIVITIES: Sell IT  
-HANDOUTS:
-ASSIGNMENT(DUE NEXT CLASS):
-  
+OBJECTIVES: Tools Pt. 1 (Resume)  
+ASSIGNMENT (DUE NEXT CLASS): Email 1st Draft Resume  
+
 ***  
 ### <a name="week3"></a>WEEK 3
 OBJECTIVES: Resume Edits (adding new skills) & Preparing for the Interview  
