@@ -43,7 +43,7 @@ MeetUp lists events, workshops and other gatherings by interest. This is a great
    
 INSERT LINK  
 
-INSERT LINK  
+[How To Create A Job Search Plan (Career One Stop)](https://www.careeronestop.org/JobSearch/Plan/create-a-job-search-plan.aspx)
   
 INSERT LINK  
 
