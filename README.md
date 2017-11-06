@@ -75,6 +75,7 @@ ASSIGNMENT (DUE NEXT CLASS): Email Resume + Course Goals
 ***  
 ### <a name="fridayafter"></a>FRIDAY AFTER KICKOFF  
 OBJECTIVES: Policies/Syllabus & Links/Creating a Job Search Strategy/Setting a Goal  
+GUEST: SAMASCHOOL  
 ASSIGNMENT (DUE NEXT CLASS): Email Job Description + Why you're interested + Why you're a good fit  
 
 ***
@@ -89,62 +90,64 @@ ASSIGNMENT (DUE NEXT CLASS): Email 1st Draft Resume
 
 ***  
 ### <a name="week3"></a>WEEK 3
-OBJECTIVES: Resume Edits (adding new skills) & Preparing for the Interview  
-ACTIVITIES: 
-HANDOUTS: 
-ASSIGNMENT(DUE NEXT CLASS):
+OBJECTIVES: Tools Pt. 2 (LinkedIn/Photo) **Make Sure You Look Good**  
+GUEST: FINANCIAL COACHING (Michelle McLeod)  
+ASSIGNMENT (DUE NEXT CLASS): Upload Photo to LinkedIn + send me link to LinkedIn Profile  
   
 ***  
 ### <a name="week4"></a>WEEK 4
-OBJECTIVES:  LinkedIn Profile & More Interview Practice
-ACTIVITIES:  
-HANDOUTS:
-ASSIGNMENT(DUE NEXT CLASS):
-**FIRST DRAFT RESUMES ARE DUE**
-  
+OBJECTIVES: Tools Pt. 3 (60 Sec Pitch)  
+ASSIGNMENT (DUE NEXT CLASS): Update resume with new tech skills  
+
 ***  
 ### <a name="week5"></a>WEEK 5
-OBJECTIVES: Introduction and Expectations (15 min)  
-ASSIGNMENT(DUE NEXT CLASS):
+OBJECTIVES: Tools Pt. 4 (Interviewing/P.A.R.)  
+ASSIGNMENT (DUE NEXT CLASS): Answer 3 questions with P.A.R. statements (Google Form)  
 
 ***  
 ### <a name="week6"></a>WEEK 6
-OBJECTIVES:   
-ASSIGNMENT(DUE NEXT CLASS):  
+OBJECTIVES: Tools Pt. 5 (Resume Updates/Interviewing Cont'd/Skype+Phone/Mock Interviews  
+ASSIGNMENT(**DUE WEEK 8**): Finalize resumes, be ready to submit by Week 8.   
 
 ***  
-### <a name="week7"></a>WEEK 7
-**EXAM WEEK, NO CAREER DEVELOPMENT**
+### <a name="week7"></a>WEEK 7  
+**EXAM WEEK, NO CAREER DEVELOPMENT! GOOD LUCK!!!**  
   
 ***  
 ### <a name="week8"></a>WEEK 8
-OBJECTIVES: Resume Upload  
-ASSIGNMENT: Upload your resume to Creddle.io, select a template & publish. Go to Peer Review and email me the link.
-ASSIGNMENT(DUE NEXT CLASS):  
-  **FINAL RESUMES DUE**
+OBJECTIVES: Resume Formatting (Creddle.io)/Networking  
+ASSIGNMENT (DUE NEXT CLASS): Upload your resume to Creddle.io, select a template & publish. Go to Peer Review and email me the link.  
+**FINAL RESUMES DUE**  
   
 ***  
 ### <a name="week9"></a>WEEK 9
-OBJECTIVES: Introduction and Expectations (15 min)  
-ASSIGNMENT(DUE NEXT CLASS):
+OBJECTIVES: Cover Letters/Targeting Your Search  
+GUEST: Career Portal w/ Business Solutions (Lou Berrios)  
+ASSIGNMENT (DUE NEXT CLASS): Email me your cover letter  
+
 ***  
 ### <a name="week10"></a>WEEK 10
-OBJECTIVES: Introduction and Expectations (15 min)  
-ASSIGNMENT(DUE NEXT CLASS):  
+OBJECTIVES: WORK READY ASSESSMENTS  
+ASSIGNMENT (DUE NEXT CLASS):  Schedule One-on-One with me 
+
 ***  
 ### <a name="week11"></a>WEEK 11
-OBJECTIVES: Introduction and Expectations (15 min)  
-ASSIGNMENT(DUE NEXT CLASS):  
+OBJECTIVES: CD ASSESSMENT (Panel)  
+ASSIGNMENT (DUE NEXT CLASS):  Schedule One-on-One with me (if you haven't done so already)  
+
 ***  
 ### <a name="week12"></a>WEEK 12
-OBJECTIVES: Introduction and Expectations (15 min)  
-ASSIGNMENT(DUE NEXT CLASS):  
+OBJECTIVES: CD ASSESSMENT (Panel)  
+ASSIGNMENT (DUE NEXT CLASS):  What's Your Plan?  
+
 ***  
-### <a name="week13"></a>WEEK 13
-OBJECTIVES: Introduction and Expectations (15 min)  
-ASSIGNMENT(DUE NEXT CLASS):  
+### <a name="week13"></a>WEEK 13  
+
+**EXAM WEEK, NO CAREER DEVELOPMENT! GOOD LUCK!!!**  
+
 ***  
 ### <a name="week14"></a>WEEK 14
-OBJECTIVES: Introduction and Expectations (15 min)  
-ASSIGNMENT(DUE NEXT CLASS):  
-***  
+OBJECTIVES: Navigating the Workplace/Refresher (Bringing It All Together)/Next Steps  
+ASSIGNMENT(DUE NEXT CLASS):  REST...but get ready to put your job search strategy in action.  
+
+***
