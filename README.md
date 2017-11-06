@@ -41,11 +41,11 @@ MeetUp lists events, workshops and other gatherings by interest. This is a great
  While we don't need an official textbook, I do recommend the following articles to help you prepare for some of the topics we'll be   discussing in the upcoming weeks:  
    
    
-INSERT LINK  
+[What To Expect From Your First Tech Job](https://certification.comptia.org/it-career-news/post/view/2012/08/06/what-to-expect-from-your-first-tech-job)
 
 [How To Create A Job Search Plan (Career One Stop)](https://www.careeronestop.org/JobSearch/Plan/create-a-job-search-plan.aspx)
   
-INSERT LINK  
+[Job Search Stuck in Neutral? Try Something Radical!](https://www.linkedin.com/pulse/20131206074354-52594-job-search-stuck-in-neutral-try-something-radical/)
 
 ***
 ## QUICKLINKS
