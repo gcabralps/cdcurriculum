@@ -91,7 +91,7 @@ ASSIGNMENT (DUE NEXT CLASS): Email 1st Draft Resume
 ***  
 ### <a name="week3"></a>WEEK 3
 OBJECTIVES: Tools Pt. 2 (LinkedIn/Photo)  
-I will be taking LinkedIn profile pics so **make sure you look neat & professional**  
+**I will take LinkedIn profile pics, so make sure you look neat & professional**  
 GUEST: FINANCIAL COACHING (Michelle McLeod)  
 ASSIGNMENT (DUE NEXT CLASS): Upload Photo to LinkedIn + send me link to LinkedIn Profile  
   
