@@ -80,10 +80,11 @@ ASSIGNMENT (DUE NEXT CLASS): Email Job Description + Why you're interested + Why
 
 ***
 ### <a name="week1"></a>WEEK 1
-OBJECTIVES: Self-Assessment (Shields/Application)  
-ASSIGNMENT (DUE NEXT CLASS): Email Completed App (Google Form)
+OBJECTIVES: Self-Assessment (Shields/60 Second Pitch)  
+ASSIGNMENT (DUE NEXT CLASS): 6-Sentence Pitch
   
 ***
+*** Due to Scheduling Changes, the topics below are subject to change. Please continue to check for updates***
 ### <a name="week2"></a>WEEK 2
 OBJECTIVES: Tools Pt. 1 (Resume)  
 ASSIGNMENT (DUE NEXT CLASS): Email 1st Draft Resume  
