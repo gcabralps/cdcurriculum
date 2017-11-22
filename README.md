@@ -109,6 +109,7 @@ ASSIGNMENT (DUE NEXT CLASS): Answer 3 questions with P.A.R. statements (Google F
 ***  
 ### <a name="week6"></a>WEEK 6
 OBJECTIVES: Tools Pt. 5 (Resume Updates/Interviewing Cont'd/Skype+Phone/Mock Interviews  
+CD MIDTERM (One-on-Ones)  
 ASSIGNMENT(**DUE WEEK 8**): Finalize resumes, be ready to submit by Week 8.   
 
 ***  
