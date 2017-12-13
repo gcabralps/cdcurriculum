@@ -1,4 +1,4 @@
-#SETTING A GOAL  
+# SETTING A GOAL  
   
 **The first step in any journey is setting a destination.**  
 In order to sell yourself as as a candidate, you have to get familiar with the industry and more importantly, the job. We will discuss the tools needed to so and how to set SMART goals.
