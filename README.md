@@ -12,7 +12,7 @@ Career Coach, Per Scholas
 Phone: (718) 991-4800 x384  
 Email: gcabral@perscholas.org  
 LinkedIn: https://www.linkedin.com/in/geny-cabral/  
-To Book One-on-Ones: https://gcabral.youcanbook.me/
+To Book One-on-Ones (After Zero-Tolerance): https://gcabral.youcanbook.me/
 ***
 ## ACCOUNTS
 Please sign up for the following accounts by Week 1:  
