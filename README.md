@@ -74,8 +74,10 @@ MeetUp lists events, workshops and other gatherings by interest. This is a great
   
 [Job Search Stuck in Neutral? Try Something Radical!](https://www.linkedin.com/pulse/20131206074354-52594-job-search-stuck-in-neutral-try-something-radical/)
 
-***
-## QUICKLINKS
+***  
+Below are the topics we will cover in class. While we try to go in order, due to scheduling changes and class progress, we may cover one topic across several sessions. 
+  
+## TOPICS
   [KickOff](#kickoff) |
   [Friday After](#fridayafter) |
   [Week1](#week1) |
@@ -95,7 +97,7 @@ MeetUp lists events, workshops and other gatherings by interest. This is a great
     
     
 ***
-### <a name="kickoff"></a>KICKOFF
+### <a name="kickoff"></a>INTRODUCTION
 OBJECTIVES: Introduction/Expectations/Collect Emails  
 ASSIGNMENT (DUE NEXT CLASS): Email Resume + Course Goals
   
