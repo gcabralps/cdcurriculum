@@ -6,4 +6,4 @@ Writing a resume can be a confusing process. There are many differing opinions a
 ### Assignment  
 Upload the first draft of your resume to your Google Drive folder.
   
-**Please note, we will on several drafts of your resume. Once you've completed the final draft, you will all upload your resumes to Creddle.io and post the link to a Google Doc in your folder.**
+**Please note, we will work on several drafts of your resume. Once you've completed the final draft, you will all upload your resumes to Creddle.io and post the link to a Google Doc in your folder.**
