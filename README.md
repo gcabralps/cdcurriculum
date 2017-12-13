@@ -22,7 +22,7 @@ From Kick-Off to the end of Week 2, you are in a probationary period of Zero Tol
 As mentioned in the student agreement/attendance policy, the standard dress code of Per Scholas is Business Casual. Please see this [link](https://www.thebalance.com/business-casual-dress-code-4051117) for examples. After Zero-Tolerance, you will be allowed to wear work appropriate jeans (dark color, no rips/tears) for Casual Fridays. Sneakers, Work Boots, Boat Shoes and ACGs are not permitted. In inclement weather, please bring a change of shoes. 
   
 ### PROFESSIONALISM AND ACCOUNTABILITY  
-Per Scholas is a professional training program and as such we expect everyone to maintain an environment of respect. Harassment and discrimination of any kind will not be tolerated. As a student, you will be responsible for your actions at all time. It is your responsibility to complete assignments in a timely manner and to notify staff of any issues that may arise (academic or otherwise.  
+Per Scholas is a professional training program and as such we expect everyone to maintain an environment of respect. Harassment and discrimination of any kind will not be tolerated. As a student, you will be responsible for your actions at all times. It is your responsibility to complete assignments in a timely manner and to notify staff of any issues that may arise (academic or otherwise).  
   
 ### ACADEMIC PERFORMANCE  
 As a student, you are required to maintain a 70% average. Your technical instructor will give you a breakdown of their grading methods. If you fall below 70% you will be placed on Academic Probation and we will create a plan to improve your performance. If after an appropriate amount of time your grades do not improve, you will be dismissed from the program.  
