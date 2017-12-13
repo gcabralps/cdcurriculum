@@ -19,13 +19,26 @@ To Book One-on-Ones (After Zero-Tolerance): https://gcabral.youcanbook.me/
 From Kick-Off to the end of Week 2, you are in a probationary period of Zero Tolerance. This means that if you are absent, late (at any point in the day including lunch/break), or leave early you will be dismissed from the program. After the period of Zero Tolerance, you are allowed 2 excused absences and 4 excused lateness.  
   
 ### DRESS CODE  
-As mentioned in the student agreement/attendance policy, the standard dress code of Per Scholas is Business Casual. Please see this [link](https://www.thebalance.com/business-casual-dress-code-4051117) for examples.  
+As mentioned in the student agreement/attendance policy, the standard dress code of Per Scholas is Business Casual. Please see this [link](https://www.thebalance.com/business-casual-dress-code-4051117) for examples. After Zero-Tolerance, you will be allowed to wear work appropriate jeans (dark color, no rips/tears) for Casual Fridays. Sneakers, Work Boots, Boat Shoes and ACGs are not permitted. In inclement weather, please bring a change of shoes. 
   
 ### PROFESSIONALISM AND ACCOUNTABILITY  
 Per Scholas is a professional training program and as such we expect everyone to maintain an environment of respect. Harassment and discrimination of any kind will not be tolerated. As a student, you will be responsible for your actions at all time. It is your responsibility to complete assignments in a timely manner and to notify staff of any issues that may arise (academic or otherwise.  
   
 ### ACADEMIC PERFORMANCE  
 As a student, you are required to maintain a 70% average. Your technical instructor will give you a breakdown of their grading methods. If you fall below 70% you will be placed on Academic Probation and we will create a plan to improve your performance. If after an appropriate amount of time your grades do not improve, you will be dismissed from the program.  
+  
+---  
+## A HOLISTIC APPROACH  
+In addition to technical instruction and career development, Per Scholas provides additional forms of support to help you on your path of professional development.  
+  
+### FINANCIAL SECURITY STRATEGIES  
+In addition to a general financial workshop that covers broader topics such as credit and debt, you will also have the opportunity to meet one-on-one with a financial coach to address any individual issues that may impede with your success in the course.  
+  
+### STUDENT SUPPORT SERVICES  
+If you are facing more pressing issues that fall outside of the financial or academic, our community navigator/social worker can meet with you to assess your needs and possible solutions.
+  
+### BUSINESS SOLUTIONS  
+The Business Solutions team works closely with employer partners to find employment opportunities (gigs, jobs, internships, etc.) for Per Scholas students. They also actively work in the market to spread the word about our program and students by hosting events such as mock-interviews and site visits. As a student, you will likely interact with the team in two ways: by attending the corporate engagement events and as you get closer to graduation, through the Work Readiness Assessment. At Week 10, you will meet with members of the Business Solutions team, who will assess your Career Portal profile and your interviewing skills. As they work so closely with our employer partners, they have a keen sense of what employers are looking for and can add any finishing touches to your interview. As an alumni, you will be in close contact, reaching out to them and receiving notifications of new opportunities.  
   
 ---
 ## ACCOUNTS
