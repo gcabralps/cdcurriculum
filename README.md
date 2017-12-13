@@ -54,8 +54,8 @@ Please sign up for the following accounts by Week 1:
 <b><a href="https://mail.google.com">GMAIL</a></b>  
 You must have a professional Gmail account (first name, last name, maybe a number). We rely <b>HEAVILY</b> on Google Calendar, Forms and other G-Suite apps to communicate with you.  
   
-<b><a href="https://drive.google.com">Google Drive Folder</a></b>  
-In order to submit assignments, and have a centralized place to keep handouts, I require that you set up a Google Drive folder ASAP. Please name this folder YEAR_CYCLE_YOURFIRSTNAME_LASTNAME_JOBSEARCH. Make sure to add me to the folder and give me edit access.  
+<b><a href="https://drive.google.com">GOOGLE DRIVE FOLDER</a></b>  
+In order to submit assignments, and have a centralized place to keep handouts, I require that you set up a [Google Drive](https://drive.google.com) folder ASAP. Please name this folder YEAR_CYCLE_YOURFIRSTNAME_LASTNAME_JOBSEARCH. Make sure to add me to the folder and give me edit access.  
 
 <b><a href="https://www.linkedin.com/">LINKEDIN</a></b>  
 LinkedIn is a professional networking tool that allows us to create profiles, search for jobs and connect with other professionals in our industry. We will have a session dedicated to creating LinkedIn profiles, but it helps to already have an account before we begin.  
