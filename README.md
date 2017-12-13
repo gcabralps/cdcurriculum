@@ -16,7 +16,18 @@ To Book One-on-Ones (After Zero-Tolerance): https://gcabral.youcanbook.me/
 ***
 ## CLASS POLICIES  
 ### ZERO TOLERANCE  
-From Kick-Off to the end of Week 2, you are in a probationary period of Zero Tolerance. This means that if you are absent, late (at any point in the day including lunch/break), or leave early you will be dismissed from the program. After the period of Zero Tol
+From Kick-Off to the end of Week 2, you are in a probationary period of Zero Tolerance. This means that if you are absent, late (at any point in the day including lunch/break), or leave early you will be dismissed from the program. After the period of Zero Tolerance, you are allowed 2 excused absences and 4 excused lateness.  
+  
+### DRESS CODE  
+As mentioned in the student agreement/attendance policy, the standard dress code of Per Scholas is Business Casual. Please see this [link](https://www.thebalance.com/business-casual-dress-code-4051117) for examples.  
+  
+### PROFESSIONALISM AND ACCOUNTABILITY  
+Per Scholas is a professional training program and as such we expect everyone to maintain an environment of respect. Harassment and discrimination of any kind will not be tolerated. As a student, you will be responsible for your actions at all time. It is your responsibility to complete assignments in a timely manner and to notify staff of any issues that may arise (academic or otherwise.  
+  
+### ACADEMIC PERFORMANCE  
+As a student, you are required to maintain a 70% average. Your technical instructor will give you a breakdown of their grading methods. If you fall below 70% you will be placed on Academic Probation and we will create a plan to improve your performance. If after an appropriate amount of time your grades do not improve, you will be dismissed from the program.  
+  
+---
 ## ACCOUNTS
 Please sign up for the following accounts by Week 1:  
 
