@@ -4,4 +4,4 @@
 The short answer - Yes. We will discuss how to properly use the cover letter as a powerful tool in the interviewing process.  
   
 ### Assignment  
-Email me your cover letter.
+Upload your cover letter to your Google Drive Folder.
