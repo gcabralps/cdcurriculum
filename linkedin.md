@@ -4,4 +4,4 @@
 We will create LinkedIn profiles and take professional photos.  
   
 ### Assignment  
-Email me the link to your profile and add it to your resume  
+Create a Google Doc in your Google Drive folder with the link to your LinkedIn profile. Add the link to your resume.  
