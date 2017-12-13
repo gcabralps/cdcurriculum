@@ -85,8 +85,8 @@ MeetUp lists events, workshops and other gatherings by interest. This is a great
 Below are the topics we will cover in class. While we try to go in order, due to scheduling changes and class progress, we may cover one topic across several sessions. 
   
 ## TOPICS
-  [Introduction](/introduction) |
-  [Friday After](#fridayafter) |
+  [Introduction](/introduction.md) |
+  [Creating A Job Search Strategy](/creatingastrategy.md) |
   [Week1](#week1) |
   [Week2](#week2) |
   [Week3](#week3) |
