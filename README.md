@@ -40,6 +40,12 @@ If you are facing more pressing issues that fall outside of the financial or aca
 ### BUSINESS SOLUTIONS  
 The Business Solutions team works closely with employer partners to find employment opportunities (gigs, jobs, internships, etc.) for Per Scholas students. They also actively work in the market, spreading the word about our program and students by hosting events such as mock-interviews and site visits. As a student, you will likely interact with the team in two ways: by attending the corporate engagement events and as you get closer to graduation, through the Work Readiness Assessment. At Week 10, you will meet with members of the Business Solutions team, who will assess your Career Portal profile and your interviewing skills. As they work so closely with our employer partners, they have a keen sense of what employers are looking for and can add any finishing touches to your interview. As an alumni, you will be in close contact, reaching out to them and receiving notifications of new opportunities.  
   
+### One-on-Ones and Assessments  
+After you've passed Zero-Tolerance, I will reach out to schedule a One-on-One with you. This is an opportunity for me to sense where you are in the course and address any individual questions you may have. It is also an opportunity for you to either Opt-In or Opt-Out of the course.  
+**After our initial meeting**, you can schedule a One-on-One with me directly via this [link](https://gcabral.youcanbook.me/). I typically try to meet with students 3 times during the course (as appropriate).  
+  
+During our meetings, I will assess your progress in the class. At Weeks 11 & 12, you will be formally assessed with a Career Development Panel Assessment (Mock Interview) in front of the class. In addition, you will also be assessed in a separate panel interview by members of our Technical Instruction team.  
+
 ---
 ## ACCOUNTS
 Please sign up for the following accounts by Week 1:  
