@@ -14,6 +14,9 @@ Email: gcabral@perscholas.org
 LinkedIn: https://www.linkedin.com/in/geny-cabral/  
 To Book One-on-Ones (After Zero-Tolerance): https://gcabral.youcanbook.me/
 ***
+## CLASS POLICIES  
+### ZERO TOLERANCE  
+From Kick-Off to the end of Week 2, you are in a probationary period of Zero Tolerance. This means that if you are absent, late (at any point in the day including lunch/break), or leave early you will be dismissed from the program. After the period of Zero Tol
 ## ACCOUNTS
 Please sign up for the following accounts by Week 1:  
 
