@@ -42,7 +42,8 @@ The Business Solutions team works closely with employer partners to find employm
   
 ### One-on-Ones and Assessments  
 After you've passed Zero-Tolerance, I will reach out to schedule a One-on-One with you. This is an opportunity for me to sense where you are in the course and address any individual questions you may have. It is also an opportunity for you to either Opt-In or Opt-Out of the course.  
-**After our initial meeting**, you can schedule a One-on-One with me directly via this [link](https://gcabral.youcanbook.me/). I typically try to meet with students 3 times during the course (as appropriate).  
+
+After our initial meeting, you can schedule a One-on-One with me directly via this [link](https://gcabral.youcanbook.me/). I typically try to meet with students 3 times during the course (as appropriate).  
   
 During our meetings, I will assess your progress in the class. At Weeks 11 & 12, you will be formally assessed with a Career Development Panel Assessment (Mock Interview) in front of the class. In addition, you will also be assessed in a separate panel interview by members of our Technical Instruction team.  
 
